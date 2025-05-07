@@ -1,0 +1,9 @@
+name: QSuicide
+version: '${project.version}'
+main: org.drqf.qsuicide.QSuicide
+api-version: '1.16'
+
+commands:
+  suicide:
+    description: "Allows to suicide in Minecraft"
+    usage: "/suicide"
